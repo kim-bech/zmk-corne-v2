@@ -17,7 +17,6 @@
 #     cmake-args: -DCONFIG_ZMK_STUDIO=y
 #     artifact-name: corne_left_with_studio
 #
-runs-on: ubuntu-22.04
 ---
 include:
   - board: seeeduino_xiao_ble
