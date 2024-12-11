@@ -5,9 +5,9 @@ manifest:
     # Additional modules containing boards/shields/custom code can be listed here as well
     # See https://docs.zephyrproject.org/3.2.0/develop/west/manifest.html#projects
   projects:
-    - name: corne_xiao
-      url: https://github.com/friction07/zmk-config-corne-xiao
-      revision: main
+#    - name: corne_xiao
+#      url: https://github.com/friction07/zmk-config-corne-xiao
+#      revision: main
     - name: corne_xiao_ble
       url: https://github.com/j1n6/zmk-xiao-ble-corne
       revision: main
