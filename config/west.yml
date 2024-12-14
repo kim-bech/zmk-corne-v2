@@ -9,7 +9,7 @@ manifest:
 #      url: https://github.com/friction07/zmk-config-corne-xiao
 #      revision: main
     - name: chipper
-      url: https://github.com/j1n6/zmk-xiao-ble-corne
+      url: https://github.com/kim-bech/zmk-xiao-ble-corne
       revision: main
     - name: zmk
       remote: zmkfirmware
