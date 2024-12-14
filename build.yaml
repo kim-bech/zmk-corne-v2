@@ -20,9 +20,9 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: corne_left
+    shield: chipper_left
 #    snippet: studio-rpc-usb-uart
 #    cmake-args: -DCONFIG_ZMK_STUDIO=y
 #    artifact-name: corne_left_with_studio
   - board: seeeduino_xiao_ble
-    shield: corne_right
+    shield: chipper_right
